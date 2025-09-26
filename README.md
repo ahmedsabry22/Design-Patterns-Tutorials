@@ -16,9 +16,9 @@
 <br>
 
 ## في هذه الدورة نشرح الـ Design Patterns التالية:
-- **Factory Design Pattern** [الفيديو هنا]()  
-- **Object Pool Pattern** [الفيديو هنا]()  
-- **State Pattern** [الفيديو هنا]()  
+- **Factory Design Pattern** [الفيديو هنا](https://youtu.be/xXcR6HJLDZ0?list=PLiH59f3XbukEMMRN7Bg_W-DM4nQumtvIS)  
+- **Object Pool Pattern** [الفيديو هنا](https://youtu.be/xI3Zjvukmck?list=PLiH59f3XbukEMMRN7Bg_W-DM4nQumtvIS)  
+- **State Pattern** [الفيديو هنا](https://youtu.be/xxN1uO32x3w?list=PLiH59f3XbukEMMRN7Bg_W-DM4nQumtvIS)  
 - **Singleton Pattern** [الفيديو هنا](https://youtu.be/DUS24nYlgzY?list=PLiH59f3XbukEMMRN7Bg_W-DM4nQumtvIS)  
 - **Strategy Pattern** [الفيديو هنا](https://youtu.be/BRlig0_HZJg?list=PLiH59f3XbukEMMRN7Bg_W-DM4nQumtvIS)  
 - **Observer Pattern** [الفيديو هنا](https://youtu.be/FlWflWQaL44?list=PLiH59f3XbukEMMRN7Bg_W-DM4nQumtvIS)  
